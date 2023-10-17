@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/BMI_Calculator/static/css/main.3099cdf0.css",
+    "main.js": "/BMI_Calculator/static/js/main.1a0f5891.js",
+    "static/media/obesity3.png": "/BMI_Calculator/static/media/obesity3.397eb54c22751b77ff00.png",
+    "static/media/obesity2.png": "/BMI_Calculator/static/media/obesity2.4ca22fb8b97dc2db3364.png",
+    "static/media/obesity1.png": "/BMI_Calculator/static/media/obesity1.b3ecbcd581586955e592.png",
+    "static/media/overweight.png": "/BMI_Calculator/static/media/overweight.077efadcd4cad2d63de0.png",
+    "static/media/healthy.png": "/BMI_Calculator/static/media/healthy.4df27dd0630fc5544b65.png",
+    "static/media/underweight.png": "/BMI_Calculator/static/media/underweight.46f8024704e6875fbffa.png",
+    "static/media/starvation.png": "/BMI_Calculator/static/media/starvation.54139ef363b00dcd8d17.png",
+    "index.html": "/BMI_Calculator/index.html",
+    "main.3099cdf0.css.map": "/BMI_Calculator/static/css/main.3099cdf0.css.map",
+    "main.1a0f5891.js.map": "/BMI_Calculator/static/js/main.1a0f5891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3099cdf0.css",
+    "static/js/main.1a0f5891.js"
+  ]
+}
